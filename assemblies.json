@@ -1,0 +1,4947 @@
+{
+  "data": {
+    "assemblies": [
+      {
+        "id": "8",
+        "title": {
+          "translation": "Consell de Barri de la Sagrera"
+        },
+        "parent": {
+          "id": "295"
+        },
+        "parentsPath": "295.8",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "10",
+        "title": {
+          "translation": "Comissió d'Empara"
+        },
+        "parent": {
+          "id": "309"
+        },
+        "parentsPath": "309.10",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "11",
+        "title": {
+          "translation": "Comissió Assessora de Processos Participatius"
+        },
+        "parent": {
+          "id": "309"
+        },
+        "parentsPath": "309.11",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "12",
+        "title": {
+          "translation": "Consell de Barri del Bon Pastor"
+        },
+        "parent": {
+          "id": "295"
+        },
+        "parentsPath": "295.12",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "13",
+        "title": {
+          "translation": "Consell de Barri de la Trinitat Vella"
+        },
+        "parent": {
+          "id": "295"
+        },
+        "parentsPath": "295.13",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "14",
+        "title": {
+          "translation": "Consell de Barri Baró de Viver"
+        },
+        "parent": {
+          "id": "295"
+        },
+        "parentsPath": "295.14",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "15",
+        "title": {
+          "translation": "Consell de Barri Sant Andreu de Palomar"
+        },
+        "parent": {
+          "id": "295"
+        },
+        "parentsPath": "295.15",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "16",
+        "title": {
+          "translation": "Consell de Barri de Navas"
+        },
+        "parent": {
+          "id": "295"
+        },
+        "parentsPath": "295.16",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "17",
+        "title": {
+          "translation": "Consell de Barri del Congrés i els Indians"
+        },
+        "parent": {
+          "id": "295"
+        },
+        "parentsPath": "295.17",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "18",
+        "title": {
+          "translation": "Consell de Barri d'Horta"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.18",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "21",
+        "title": {
+          "translation": "Consell de Barri de la Font d'en Fargues"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.21",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "22",
+        "title": {
+          "translation": "Consell de Barri de La Clota"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.22",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "23",
+        "title": {
+          "translation": "Consell de Barri de Montbau"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.23",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "24",
+        "title": {
+          "translation": "Consell de Barri de la Vall d'Hebron"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.24",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "25",
+        "title": {
+          "translation": "Consell de Barri de La Teixonera"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.25",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "26",
+        "title": {
+          "translation": "Espai de Governança del Pla Director del Parc del Castell de l'Oreneta"
+        },
+        "parent": {
+          "id": "301"
+        },
+        "parentsPath": "301.26",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "6"
+        }
+      },
+      {
+        "id": "27",
+        "title": {
+          "translation": "Consell de Barri de Sant Genís dels Agudells"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.27",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "28",
+        "title": {
+          "translation": "Consell de Barri del Carmel"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.28",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "29",
+        "title": {
+          "translation": "Consell de Barri de Can Baró"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.29",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "30",
+        "title": {
+          "translation": "Consell de Barri del Baix Guinardó"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.30",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "31",
+        "title": {
+          "translation": "Consell de Barri del Guinardó"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.31",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "32",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Barcelona (curs 20-21)"
+        },
+        "parent": {
+          "id": "452"
+        },
+        "parentsPath": "293.452.32",
+        "childrenCount": 11,
+        "assemblyType": null
+      },
+      {
+        "id": "33",
+        "title": {
+          "translation": "Consell de Barri de Can Peguera"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.33",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "37",
+        "title": {
+          "translation": "Consell de Barri de Canyelles"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.37",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "38",
+        "title": {
+          "translation": "Consell de Barri de Ciutat Meridiana"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.38",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "39",
+        "title": {
+          "translation": "Consell de Barri de la Guineueta"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.39",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "40",
+        "title": {
+          "translation": "Consell de Barri de Porta"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.40",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "41",
+        "title": {
+          "translation": "Consell de Barri de la Prosperitat"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.41",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "42",
+        "title": {
+          "translation": "Consell de Barri de les Roquetes"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.42",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "43",
+        "title": {
+          "translation": "Consell de Barri de la Trinitat Nova"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.43",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "44",
+        "title": {
+          "translation": "Consell de Barri de Torre Baró"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.44",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "45",
+        "title": {
+          "translation": "Consell de Barri del Turó de la Peira"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.45",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "46",
+        "title": {
+          "translation": "Consell de Barri de Vallbona"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.46",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "47",
+        "title": {
+          "translation": "Consell de Barri de Verdum"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.47",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "48",
+        "title": {
+          "translation": "Consell de Barri de Vilapicina i la Torre Llobeta"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.48",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "49",
+        "title": {
+          "translation": "Consell de Barri de Les Corts"
+        },
+        "parent": {
+          "id": "300"
+        },
+        "parentsPath": "300.49",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "50",
+        "title": {
+          "translation": "Consell de Barri de La Maternitat i Sant Ramon"
+        },
+        "parent": {
+          "id": "300"
+        },
+        "parentsPath": "300.50",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "51",
+        "title": {
+          "translation": "Consell de Barri de Pedralbes"
+        },
+        "parent": {
+          "id": "300"
+        },
+        "parentsPath": "300.51",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "52",
+        "title": {
+          "translation": "Consell de Barri Vallcarca i els Penitents"
+        },
+        "parent": {
+          "id": "303"
+        },
+        "parentsPath": "303.52",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "53",
+        "title": {
+          "translation": "Consell de Barri El Coll"
+        },
+        "parent": {
+          "id": "303"
+        },
+        "parentsPath": "303.53",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "54",
+        "title": {
+          "translation": "Consell de Barri La Salut"
+        },
+        "parent": {
+          "id": "303"
+        },
+        "parentsPath": "303.54",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "55",
+        "title": {
+          "translation": "Consell de Barri Vila de Gràcia"
+        },
+        "parent": {
+          "id": "303"
+        },
+        "parentsPath": "303.55",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "56",
+        "title": {
+          "translation": "Consell de Barri El Camp d’en Grassot i Gràcia Nova"
+        },
+        "parent": {
+          "id": "303"
+        },
+        "parentsPath": "303.56",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "57",
+        "title": {
+          "translation": "Consell de Ciutat"
+        },
+        "parent": {
+          "id": "293"
+        },
+        "parentsPath": "293.57",
+        "childrenCount": 5,
+        "assemblyType": null
+      },
+      {
+        "id": "58",
+        "title": {
+          "translation": "Consell Municipal d'Immigració"
+        },
+        "parent": {
+          "id": "293"
+        },
+        "parentsPath": "293.58",
+        "childrenCount": 3,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "60",
+        "title": {
+          "translation": "Consell de Barri del Raval"
+        },
+        "parent": {
+          "id": "302"
+        },
+        "parentsPath": "302.60",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "61",
+        "title": {
+          "translation": "Consell de Barri Sant Pere, Santa Caterina i la Ribera"
+        },
+        "parent": {
+          "id": "302"
+        },
+        "parentsPath": "302.61",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "62",
+        "title": {
+          "translation": "Consell de Barri del Gòtic"
+        },
+        "parent": {
+          "id": "302"
+        },
+        "parentsPath": "302.62",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "63",
+        "title": {
+          "translation": "Consell de Barri de la Barceloneta"
+        },
+        "parent": {
+          "id": "302"
+        },
+        "parentsPath": "302.63",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "64",
+        "title": {
+          "translation": "Consell de Barri del Poble-sec"
+        },
+        "parent": {
+          "id": "304"
+        },
+        "parentsPath": "304.64",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "65",
+        "title": {
+          "translation": "Consell de Barri de Sants-Badal"
+        },
+        "parent": {
+          "id": "304"
+        },
+        "parentsPath": "304.65",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "66",
+        "title": {
+          "translation": "Consell de Barri de Sants"
+        },
+        "parent": {
+          "id": "304"
+        },
+        "parentsPath": "304.66",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "67",
+        "title": {
+          "translation": "Consell de Barri d'Hostafrancs"
+        },
+        "parent": {
+          "id": "304"
+        },
+        "parentsPath": "304.67",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "68",
+        "title": {
+          "translation": "Consell de Barri de la Marina"
+        },
+        "parent": {
+          "id": "304"
+        },
+        "parentsPath": "304.68",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "69",
+        "title": {
+          "translation": "Consell de Barri de la Font de la Guatlla"
+        },
+        "parent": {
+          "id": "304"
+        },
+        "parentsPath": "304.69",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "70",
+        "title": {
+          "translation": "Consell de Barri de la Bordeta"
+        },
+        "parent": {
+          "id": "304"
+        },
+        "parentsPath": "304.70",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "74",
+        "title": {
+          "translation": "Comissió de Seguiment del Consell de Barri del Raval"
+        },
+        "parent": {
+          "id": "60"
+        },
+        "parentsPath": "302.60.74",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "6"
+        }
+      },
+      {
+        "id": "75",
+        "title": {
+          "translation": "Consell de Barri del Putxet i El Farró"
+        },
+        "parent": {
+          "id": "301"
+        },
+        "parentsPath": "301.75",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "76",
+        "title": {
+          "translation": "Consell de Barri de Sarrià"
+        },
+        "parent": {
+          "id": "301"
+        },
+        "parentsPath": "301.76",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "77",
+        "title": {
+          "translation": "Consell de Barri de Sant Gervasi - la Bonanova"
+        },
+        "parent": {
+          "id": "301"
+        },
+        "parentsPath": "301.77",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "78",
+        "title": {
+          "translation": "Consell de Barri de Sant Gervasi - Galvany"
+        },
+        "parent": {
+          "id": "301"
+        },
+        "parentsPath": "301.78",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "79",
+        "title": {
+          "translation": "Consell de Barri de Les Tres Torres"
+        },
+        "parent": {
+          "id": "301"
+        },
+        "parentsPath": "301.79",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "80",
+        "title": {
+          "translation": "Consell de Barri de Vallvidrera, el Tibidabo i les Planes"
+        },
+        "parent": {
+          "id": "301"
+        },
+        "parentsPath": "301.80",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "81",
+        "title": {
+          "translation": "Comissió de Seguiment del Consell de Barri de Sant Pere, Santa Caterina i la Ribera"
+        },
+        "parent": {
+          "id": "61"
+        },
+        "parentsPath": "302.61.81",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "6"
+        }
+      },
+      {
+        "id": "82",
+        "title": {
+          "translation": "Comissió de Seguiment del Consell de Barri Gòtic"
+        },
+        "parent": {
+          "id": "62"
+        },
+        "parentsPath": "302.62.82",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "6"
+        }
+      },
+      {
+        "id": "83",
+        "title": {
+          "translation": "Comissió de Seguiment del Consell de Barri de la Barceloneta"
+        },
+        "parent": {
+          "id": "63"
+        },
+        "parentsPath": "302.63.83",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "6"
+        }
+      },
+      {
+        "id": "85",
+        "title": {
+          "translation": "Consell de Barri de Sant Antoni"
+        },
+        "parent": {
+          "id": "297"
+        },
+        "parentsPath": "297.85",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "87",
+        "title": {
+          "translation": "Consell de Barri del Fort Pienc"
+        },
+        "parent": {
+          "id": "297"
+        },
+        "parentsPath": "297.87",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "88",
+        "title": {
+          "translation": "Consell de Barri de Sagrada Família"
+        },
+        "parent": {
+          "id": "297"
+        },
+        "parentsPath": "297.88",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "89",
+        "title": {
+          "translation": "Consell de Barri de l'Esquerra de l'Eixample"
+        },
+        "parent": {
+          "id": "297"
+        },
+        "parentsPath": "297.89",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "90",
+        "title": {
+          "translation": "Consell de Barri de la Dreta de l'Eixample"
+        },
+        "parent": {
+          "id": "297"
+        },
+        "parentsPath": "297.90",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "98",
+        "title": {
+          "translation": "Consell Escolar Municipal del  Districte de Ciutat Vella"
+        },
+        "parent": {
+          "id": "96"
+        },
+        "parentsPath": "293.282.96.98",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "99",
+        "title": {
+          "translation": "Consell Escolar Municipal del  Districte de l'Eixample"
+        },
+        "parent": {
+          "id": "96"
+        },
+        "parentsPath": "293.282.96.99",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "100",
+        "title": {
+          "translation": "Consell Escolar Municipal del  Districte de Sants-Montjuïc"
+        },
+        "parent": {
+          "id": "96"
+        },
+        "parentsPath": "293.282.96.100",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "101",
+        "title": {
+          "translation": "Consell Escolar Municipal del  Districte de Les Corts"
+        },
+        "parent": {
+          "id": "96"
+        },
+        "parentsPath": "293.282.96.101",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "102",
+        "title": {
+          "translation": "Consell Escolar Municipal del  Districte de Sarrià-Sant Gervasi"
+        },
+        "parent": {
+          "id": "96"
+        },
+        "parentsPath": "293.282.96.102",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "103",
+        "title": {
+          "translation": "Consell Escolar Municipal del Districte de Gràcia"
+        },
+        "parent": {
+          "id": "96"
+        },
+        "parentsPath": "293.282.96.103",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "104",
+        "title": {
+          "translation": "Consell Escolar Municipal del Districte d'Horta-Guinardó"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.104",
+        "childrenCount": 3,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "106",
+        "title": {
+          "translation": "Consell Educatiu Municipal del Districte de Nou Barris"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.106",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "107",
+        "title": {
+          "translation": "Consell Escolar Municipal del Districte de Sant Andreu"
+        },
+        "parent": {
+          "id": "96"
+        },
+        "parentsPath": "293.282.96.107",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "108",
+        "title": {
+          "translation": "Consell Escolar Municipal del Districte de Sant Martí"
+        },
+        "parent": {
+          "id": "96"
+        },
+        "parentsPath": "293.282.96.108",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "110",
+        "title": {
+          "translation": "Centres Educatius Públics Sant Andreu"
+        },
+        "parent": {
+          "id": "107"
+        },
+        "parentsPath": "293.282.96.107.110",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "111",
+        "title": {
+          "translation": "Centres Educatius Concertats Sant Andreu"
+        },
+        "parent": {
+          "id": "107"
+        },
+        "parentsPath": "293.282.96.107.111",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "112",
+        "title": {
+          "translation": "Centres Educatius Concertats Sant Martí"
+        },
+        "parent": {
+          "id": "108"
+        },
+        "parentsPath": "293.282.96.108.112",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "113",
+        "title": {
+          "translation": "Centres Educatius Públics Sant Martí"
+        },
+        "parent": {
+          "id": "108"
+        },
+        "parentsPath": "293.282.96.108.113",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "114",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "113"
+        },
+        "parentsPath": "293.282.96.108.113.114",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "116",
+        "title": {
+          "translation": "Direccions"
+        },
+        "parent": {
+          "id": "113"
+        },
+        "parentsPath": "293.282.96.108.113.116",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "117",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "113"
+        },
+        "parentsPath": "293.282.96.108.113.117",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "118",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "113"
+        },
+        "parentsPath": "293.282.96.108.113.118",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "119",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "113"
+        },
+        "parentsPath": "293.282.96.108.113.119",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "120",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "113"
+        },
+        "parentsPath": "293.282.96.108.113.120",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "121",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "112"
+        },
+        "parentsPath": "293.282.96.108.112.121",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "122",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "112"
+        },
+        "parentsPath": "293.282.96.108.112.122",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "124",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "112"
+        },
+        "parentsPath": "293.282.96.108.112.124",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "125",
+        "title": {
+          "translation": "Titulars"
+        },
+        "parent": {
+          "id": "112"
+        },
+        "parentsPath": "293.282.96.108.112.125",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "126",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "112"
+        },
+        "parentsPath": "293.282.96.108.112.126",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "127",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "112"
+        },
+        "parentsPath": "293.282.96.108.112.127",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "128",
+        "title": {
+          "translation": "Centres Educatius Públics Gràcia"
+        },
+        "parent": {
+          "id": "103"
+        },
+        "parentsPath": "293.282.96.103.128",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "129",
+        "title": {
+          "translation": "Centres Educatius Concertats Gràcia"
+        },
+        "parent": {
+          "id": "103"
+        },
+        "parentsPath": "293.282.96.103.129",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "130",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "129"
+        },
+        "parentsPath": "293.282.96.103.129.130",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "131",
+        "title": {
+          "translation": "Titulars"
+        },
+        "parent": {
+          "id": "129"
+        },
+        "parentsPath": "293.282.96.103.129.131",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "132",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "129"
+        },
+        "parentsPath": "293.282.96.103.129.132",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "133",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "129"
+        },
+        "parentsPath": "293.282.96.103.129.133",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "135",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "129"
+        },
+        "parentsPath": "293.282.96.103.129.135",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "136",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "129"
+        },
+        "parentsPath": "293.282.96.103.129.136",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "137",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "128"
+        },
+        "parentsPath": "293.282.96.103.128.137",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "138",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "128"
+        },
+        "parentsPath": "293.282.96.103.128.138",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "140",
+        "title": {
+          "translation": "Direccions"
+        },
+        "parent": {
+          "id": "128"
+        },
+        "parentsPath": "293.282.96.103.128.140",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "141",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "128"
+        },
+        "parentsPath": "293.282.96.103.128.141",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "142",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "128"
+        },
+        "parentsPath": "293.282.96.103.128.142",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "143",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "128"
+        },
+        "parentsPath": "293.282.96.103.128.143",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "144",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "110"
+        },
+        "parentsPath": "293.282.96.107.110.144",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "145",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "110"
+        },
+        "parentsPath": "293.282.96.107.110.145",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "146",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "110"
+        },
+        "parentsPath": "293.282.96.107.110.146",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "147",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnat"
+        },
+        "parent": {
+          "id": "110"
+        },
+        "parentsPath": "293.282.96.107.110.147",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "149",
+        "title": {
+          "translation": "Direccions"
+        },
+        "parent": {
+          "id": "110"
+        },
+        "parentsPath": "293.282.96.107.110.149",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "150",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "110"
+        },
+        "parentsPath": "293.282.96.107.110.150",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "151",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "111"
+        },
+        "parentsPath": "293.282.96.107.111.151",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "153",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnat"
+        },
+        "parent": {
+          "id": "111"
+        },
+        "parentsPath": "293.282.96.107.111.153",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "154",
+        "title": {
+          "translation": "Titulars"
+        },
+        "parent": {
+          "id": "111"
+        },
+        "parentsPath": "293.282.96.107.111.154",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "155",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "111"
+        },
+        "parentsPath": "293.282.96.107.111.155",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "156",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "111"
+        },
+        "parentsPath": "293.282.96.107.111.156",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "157",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "111"
+        },
+        "parentsPath": "293.282.96.107.111.157",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "158",
+        "title": {
+          "translation": "Centres Educatius Públics Eixample"
+        },
+        "parent": {
+          "id": "99"
+        },
+        "parentsPath": "293.282.96.99.158",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "159",
+        "title": {
+          "translation": "Centres Educatius Concertats Eixample"
+        },
+        "parent": {
+          "id": "99"
+        },
+        "parentsPath": "293.282.96.99.159",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "160",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "158"
+        },
+        "parentsPath": "293.282.96.99.158.160",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "161",
+        "title": {
+          "translation": "AFA/ AMPA - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "158"
+        },
+        "parentsPath": "293.282.96.99.158.161",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "163",
+        "title": {
+          "translation": "Direccions"
+        },
+        "parent": {
+          "id": "158"
+        },
+        "parentsPath": "293.282.96.99.158.163",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "164",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "158"
+        },
+        "parentsPath": "293.282.96.99.158.164",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "165",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "158"
+        },
+        "parentsPath": "293.282.96.99.158.165",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "166",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "158"
+        },
+        "parentsPath": "293.282.96.99.158.166",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "167",
+        "title": {
+          "translation": "Titulars"
+        },
+        "parent": {
+          "id": "159"
+        },
+        "parentsPath": "293.282.96.99.159.167",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "168",
+        "title": {
+          "translation": "AFA/ AMPA - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "159"
+        },
+        "parentsPath": "293.282.96.99.159.168",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "169",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "159"
+        },
+        "parentsPath": "293.282.96.99.159.169",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "170",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "159"
+        },
+        "parentsPath": "293.282.96.99.159.170",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "172",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "159"
+        },
+        "parentsPath": "293.282.96.99.159.172",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "173",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "159"
+        },
+        "parentsPath": "293.282.96.99.159.173",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "174",
+        "title": {
+          "translation": "Centres Educatius Públics Sarrià Sant Gervasi"
+        },
+        "parent": {
+          "id": "102"
+        },
+        "parentsPath": "293.282.96.102.174",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "175",
+        "title": {
+          "translation": "Centres Educatius Concertats Sarrià-Sant Gervasi"
+        },
+        "parent": {
+          "id": "102"
+        },
+        "parentsPath": "293.282.96.102.175",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "176",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "174"
+        },
+        "parentsPath": "293.282.96.102.174.176",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "177",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "174"
+        },
+        "parentsPath": "293.282.96.102.174.177",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "179",
+        "title": {
+          "translation": "Direccions"
+        },
+        "parent": {
+          "id": "174"
+        },
+        "parentsPath": "293.282.96.102.174.179",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "180",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "174"
+        },
+        "parentsPath": "293.282.96.102.174.180",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "181",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "174"
+        },
+        "parentsPath": "293.282.96.102.174.181",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "182",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "174"
+        },
+        "parentsPath": "293.282.96.102.174.182",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "183",
+        "title": {
+          "translation": "Titulars"
+        },
+        "parent": {
+          "id": "175"
+        },
+        "parentsPath": "293.282.96.102.175.183",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "184",
+        "title": {
+          "translation": "AFAs/AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "175"
+        },
+        "parentsPath": "293.282.96.102.175.184",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "185",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "175"
+        },
+        "parentsPath": "293.282.96.102.175.185",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "186",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "175"
+        },
+        "parentsPath": "293.282.96.102.175.186",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "188",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "175"
+        },
+        "parentsPath": "293.282.96.102.175.188",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "189",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "175"
+        },
+        "parentsPath": "293.282.96.102.175.189",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "190",
+        "title": {
+          "translation": "Centres Educatius Públics Les Corts"
+        },
+        "parent": {
+          "id": "101"
+        },
+        "parentsPath": "293.282.96.101.190",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "191",
+        "title": {
+          "translation": "Centres Educatius Concertats Les Corts"
+        },
+        "parent": {
+          "id": "101"
+        },
+        "parentsPath": "293.282.96.101.191",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "192",
+        "title": {
+          "translation": "Direccions"
+        },
+        "parent": {
+          "id": "190"
+        },
+        "parentsPath": "293.282.96.101.190.192",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "193",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "190"
+        },
+        "parentsPath": "293.282.96.101.190.193",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "194",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "190"
+        },
+        "parentsPath": "293.282.96.101.190.194",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "195",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "190"
+        },
+        "parentsPath": "293.282.96.101.190.195",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "196",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "190"
+        },
+        "parentsPath": "293.282.96.101.190.196",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "197",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "190"
+        },
+        "parentsPath": "293.282.96.101.190.197",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "199",
+        "title": {
+          "translation": "Titulars"
+        },
+        "parent": {
+          "id": "191"
+        },
+        "parentsPath": "293.282.96.101.191.199",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "200",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "191"
+        },
+        "parentsPath": "293.282.96.101.191.200",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "201",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "191"
+        },
+        "parentsPath": "293.282.96.101.191.201",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "202",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "191"
+        },
+        "parentsPath": "293.282.96.101.191.202",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "203",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "191"
+        },
+        "parentsPath": "293.282.96.101.191.203",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "205",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "191"
+        },
+        "parentsPath": "293.282.96.101.191.205",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "206",
+        "title": {
+          "translation": "Centres Educatius Concertats Ciutat Vella"
+        },
+        "parent": {
+          "id": "98"
+        },
+        "parentsPath": "293.282.96.98.206",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "207",
+        "title": {
+          "translation": "Centres Educatius Públics Ciutat Vella"
+        },
+        "parent": {
+          "id": "98"
+        },
+        "parentsPath": "293.282.96.98.207",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "209",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "207"
+        },
+        "parentsPath": "293.282.96.98.207.209",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "210",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "207"
+        },
+        "parentsPath": "293.282.96.98.207.210",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "211",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "207"
+        },
+        "parentsPath": "293.282.96.98.207.211",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "212",
+        "title": {
+          "translation": "AFAs/AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "207"
+        },
+        "parentsPath": "293.282.96.98.207.212",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "213",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "207"
+        },
+        "parentsPath": "293.282.96.98.207.213",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "214",
+        "title": {
+          "translation": "Direccions"
+        },
+        "parent": {
+          "id": "207"
+        },
+        "parentsPath": "293.282.96.98.207.214",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "215",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "206"
+        },
+        "parentsPath": "293.282.96.98.206.215",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "217",
+        "title": {
+          "translation": "Titulars"
+        },
+        "parent": {
+          "id": "206"
+        },
+        "parentsPath": "293.282.96.98.206.217",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "218",
+        "title": {
+          "translation": "AFAs/AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "206"
+        },
+        "parentsPath": "293.282.96.98.206.218",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "219",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "206"
+        },
+        "parentsPath": "293.282.96.98.206.219",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "220",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "206"
+        },
+        "parentsPath": "293.282.96.98.206.220",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "221",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "206"
+        },
+        "parentsPath": "293.282.96.98.206.221",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "222",
+        "title": {
+          "translation": "Centres Educatius Concertats Sants-Montjuïc"
+        },
+        "parent": {
+          "id": "100"
+        },
+        "parentsPath": "293.282.96.100.222",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "223",
+        "title": {
+          "translation": "Centres Educatius Públics Sants-Montjuïc"
+        },
+        "parent": {
+          "id": "100"
+        },
+        "parentsPath": "293.282.96.100.223",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "224",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "223"
+        },
+        "parentsPath": "293.282.96.100.223.224",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "225",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "223"
+        },
+        "parentsPath": "293.282.96.100.223.225",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "227",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "223"
+        },
+        "parentsPath": "293.282.96.100.223.227",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "228",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "223"
+        },
+        "parentsPath": "293.282.96.100.223.228",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "229",
+        "title": {
+          "translation": "Direccions"
+        },
+        "parent": {
+          "id": "223"
+        },
+        "parentsPath": "293.282.96.100.223.229",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "230",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "223"
+        },
+        "parentsPath": "293.282.96.100.223.230",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "231",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "222"
+        },
+        "parentsPath": "293.282.96.100.222.231",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "232",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "222"
+        },
+        "parentsPath": "293.282.96.100.222.232",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "234",
+        "title": {
+          "translation": "Titulars"
+        },
+        "parent": {
+          "id": "222"
+        },
+        "parentsPath": "293.282.96.100.222.234",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "235",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "222"
+        },
+        "parentsPath": "293.282.96.100.222.235",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "236",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "222"
+        },
+        "parentsPath": "293.282.96.100.222.236",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "237",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "222"
+        },
+        "parentsPath": "293.282.96.100.222.237",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "240",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "239"
+        },
+        "parentsPath": "296.104.239.240",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "241",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "239"
+        },
+        "parentsPath": "296.104.239.241",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "243",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "239"
+        },
+        "parentsPath": "296.104.239.243",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "244",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "239"
+        },
+        "parentsPath": "296.104.239.244",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "245",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "239"
+        },
+        "parentsPath": "296.104.239.245",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "246",
+        "title": {
+          "translation": "Direccions"
+        },
+        "parent": {
+          "id": "239"
+        },
+        "parentsPath": "296.104.239.246",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "247",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "238"
+        },
+        "parentsPath": "296.104.238.247",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "248",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "238"
+        },
+        "parentsPath": "296.104.238.248",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "249",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "238"
+        },
+        "parentsPath": "296.104.238.249",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "250",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "238"
+        },
+        "parentsPath": "296.104.238.250",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "251",
+        "title": {
+          "translation": "Titulars"
+        },
+        "parent": {
+          "id": "238"
+        },
+        "parentsPath": "296.104.238.251",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "253",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "238"
+        },
+        "parentsPath": "296.104.238.253",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "256",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "254"
+        },
+        "parentsPath": "299.106.254.256",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "257",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "254"
+        },
+        "parentsPath": "299.106.254.257",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "259",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "254"
+        },
+        "parentsPath": "299.106.254.259",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "260",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "254"
+        },
+        "parentsPath": "299.106.254.260",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "261",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "254"
+        },
+        "parentsPath": "299.106.254.261",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "262",
+        "title": {
+          "translation": "Direccions"
+        },
+        "parent": {
+          "id": "254"
+        },
+        "parentsPath": "299.106.254.262",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "263",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "255"
+        },
+        "parentsPath": "299.106.255.263",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "264",
+        "title": {
+          "translation": "Estudiants"
+        },
+        "parent": {
+          "id": "255"
+        },
+        "parentsPath": "299.106.255.264",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "265",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "255"
+        },
+        "parentsPath": "299.106.255.265",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "266",
+        "title": {
+          "translation": "AFAs/ AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "255"
+        },
+        "parentsPath": "299.106.255.266",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "267",
+        "title": {
+          "translation": "Titulars"
+        },
+        "parent": {
+          "id": "255"
+        },
+        "parentsPath": "299.106.255.267",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "269",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "255"
+        },
+        "parentsPath": "299.106.255.269",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "270",
+        "title": {
+          "translation": "Centres Educatius Concertats"
+        },
+        "parent": {
+          "id": "282"
+        },
+        "parentsPath": "293.282.270",
+        "childrenCount": 6,
+        "assemblyType": null
+      },
+      {
+        "id": "271",
+        "title": {
+          "translation": "Centres Educatius Públics"
+        },
+        "parent": {
+          "id": "282"
+        },
+        "parentsPath": "293.282.271",
+        "childrenCount": 7,
+        "assemblyType": null
+      },
+      {
+        "id": "272",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "271"
+        },
+        "parentsPath": "293.282.271.272",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "273",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "271"
+        },
+        "parentsPath": "293.282.271.273",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "274",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "271"
+        },
+        "parentsPath": "293.282.271.274",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "275",
+        "title": {
+          "translation": "Alumnat"
+        },
+        "parent": {
+          "id": "271"
+        },
+        "parentsPath": "293.282.271.275",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "276",
+        "title": {
+          "translation": "Direccions"
+        },
+        "parent": {
+          "id": "271"
+        },
+        "parentsPath": "293.282.271.276",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "277",
+        "title": {
+          "translation": "Famílies"
+        },
+        "parent": {
+          "id": "270"
+        },
+        "parentsPath": "293.282.270.277",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "278",
+        "title": {
+          "translation": "Alumnat"
+        },
+        "parent": {
+          "id": "270"
+        },
+        "parentsPath": "293.282.270.278",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "279",
+        "title": {
+          "translation": "PAS - Personal d'administració i serveis"
+        },
+        "parent": {
+          "id": "270"
+        },
+        "parentsPath": "293.282.270.279",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "280",
+        "title": {
+          "translation": "Docents"
+        },
+        "parent": {
+          "id": "270"
+        },
+        "parentsPath": "293.282.270.280",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "281",
+        "title": {
+          "translation": "Titulars"
+        },
+        "parent": {
+          "id": "270"
+        },
+        "parentsPath": "293.282.270.281",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "282",
+        "title": {
+          "translation": "Consell d'Educació Municipal de Barcelona"
+        },
+        "parent": {
+          "id": "293"
+        },
+        "parentsPath": "293.282",
+        "childrenCount": 7,
+        "assemblyType": null
+      },
+      {
+        "id": "283",
+        "title": {
+          "translation": "Consell de Barri del Clot i del Camp de l'Arpa del Clot"
+        },
+        "parent": {
+          "id": "298"
+        },
+        "parentsPath": "298.283",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "284",
+        "title": {
+          "translation": "Consell de Barri de la Verneda i la Pau"
+        },
+        "parent": {
+          "id": "298"
+        },
+        "parentsPath": "298.284",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "285",
+        "title": {
+          "translation": "Consell de Barri de Diagonal Mar i el Front Marítim del Poblenou"
+        },
+        "parent": {
+          "id": "298"
+        },
+        "parentsPath": "298.285",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "286",
+        "title": {
+          "translation": "Consell de Barri del Besòs i el Maresme"
+        },
+        "parent": {
+          "id": "298"
+        },
+        "parentsPath": "298.286",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "287",
+        "title": {
+          "translation": "Consell de Barri del Parc i la Llacuna del Poblenou"
+        },
+        "parent": {
+          "id": "298"
+        },
+        "parentsPath": "298.287",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "288",
+        "title": {
+          "translation": "Consell de Barri del Poblenou"
+        },
+        "parent": {
+          "id": "298"
+        },
+        "parentsPath": "298.288",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "289",
+        "title": {
+          "translation": "Consell de Barri de la Vila Olímpica del Poblenou"
+        },
+        "parent": {
+          "id": "298"
+        },
+        "parentsPath": "298.289",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "290",
+        "title": {
+          "translation": "Consell de Barri de Provençals del Poblenou"
+        },
+        "parent": {
+          "id": "298"
+        },
+        "parentsPath": "298.290",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "291",
+        "title": {
+          "translation": "Consell de Barri de Sant Martí de Provençals"
+        },
+        "parent": {
+          "id": "298"
+        },
+        "parentsPath": "298.291",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "293",
+        "title": {
+          "translation": "Òrgans de Ciutat"
+        },
+        "parent": null,
+        "parentsPath": "293",
+        "childrenCount": 23,
+        "assemblyType": null
+      },
+      {
+        "id": "295",
+        "title": {
+          "translation": "Òrgans de Participació del Districte de Sant Andreu"
+        },
+        "parent": null,
+        "parentsPath": "295",
+        "childrenCount": 11,
+        "assemblyType": null
+      },
+      {
+        "id": "296",
+        "title": {
+          "translation": "Òrgans de Participació del Districte d'Horta-Guinardó"
+        },
+        "parent": null,
+        "parentsPath": "296",
+        "childrenCount": 14,
+        "assemblyType": null
+      },
+      {
+        "id": "297",
+        "title": {
+          "translation": "Òrgans de Participació del Districte de l'Eixample"
+        },
+        "parent": null,
+        "parentsPath": "297",
+        "childrenCount": 7,
+        "assemblyType": null
+      },
+      {
+        "id": "298",
+        "title": {
+          "translation": "Òrgans de Participació del Districte de Sant Martí"
+        },
+        "parent": null,
+        "parentsPath": "298",
+        "childrenCount": 11,
+        "assemblyType": null
+      },
+      {
+        "id": "299",
+        "title": {
+          "translation": "Òrgans de Participació del Districte de Nou Barris"
+        },
+        "parent": null,
+        "parentsPath": "299",
+        "childrenCount": 15,
+        "assemblyType": null
+      },
+      {
+        "id": "300",
+        "title": {
+          "translation": "Òrgans de Participació del Districte de Les Corts"
+        },
+        "parent": null,
+        "parentsPath": "300",
+        "childrenCount": 4,
+        "assemblyType": null
+      },
+      {
+        "id": "301",
+        "title": {
+          "translation": "Òrgans de Participació del Districte de Sarrià - Sant Gervasi"
+        },
+        "parent": null,
+        "parentsPath": "301",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "302",
+        "title": {
+          "translation": "Òrgans de Participació del Districte de Ciutat Vella"
+        },
+        "parent": null,
+        "parentsPath": "302",
+        "childrenCount": 8,
+        "assemblyType": null
+      },
+      {
+        "id": "303",
+        "title": {
+          "translation": "Òrgans de Participació del Districte de Gràcia"
+        },
+        "parent": null,
+        "parentsPath": "303",
+        "childrenCount": 7,
+        "assemblyType": null
+      },
+      {
+        "id": "304",
+        "title": {
+          "translation": "Òrgans de participació del Districte de Sants-Montjuïc"
+        },
+        "parent": null,
+        "parentsPath": "304",
+        "childrenCount": 11,
+        "assemblyType": null
+      },
+      {
+        "id": "305",
+        "title": {
+          "translation": "Taula per l'Emergència Climàtica"
+        },
+        "parent": {
+          "id": "421"
+        },
+        "parentsPath": "293.421.305",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "5"
+        }
+      },
+      {
+        "id": "307",
+        "title": {
+          "translation": "Consell de La Font del Gos"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.307",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "309",
+        "title": {
+          "translation": "Comissions de Garanties"
+        },
+        "parent": null,
+        "parentsPath": "309",
+        "childrenCount": 3,
+        "assemblyType": null
+      },
+      {
+        "id": "312",
+        "title": {
+          "translation": "Consell del Parc de Montjuïc"
+        },
+        "parent": {
+          "id": "304"
+        },
+        "parentsPath": "304.312",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "314",
+        "title": {
+          "translation": "Ciutat Vella des de casa"
+        },
+        "parent": {
+          "id": "313"
+        },
+        "parentsPath": "293.313.314",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "34"
+        }
+      },
+      {
+        "id": "315",
+        "title": {
+          "translation": "Eixample des de casa"
+        },
+        "parent": {
+          "id": "313"
+        },
+        "parentsPath": "293.313.315",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "34"
+        }
+      },
+      {
+        "id": "316",
+        "title": {
+          "translation": "Sants - Montjuïc des de casa"
+        },
+        "parent": {
+          "id": "313"
+        },
+        "parentsPath": "293.313.316",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "34"
+        }
+      },
+      {
+        "id": "317",
+        "title": {
+          "translation": "Les Corts des de casa"
+        },
+        "parent": {
+          "id": "313"
+        },
+        "parentsPath": "293.313.317",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "34"
+        }
+      },
+      {
+        "id": "318",
+        "title": {
+          "translation": "Sarrià - Sant Gervasi des de casa"
+        },
+        "parent": {
+          "id": "313"
+        },
+        "parentsPath": "293.313.318",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "34"
+        }
+      },
+      {
+        "id": "319",
+        "title": {
+          "translation": "Gràcia des de casa"
+        },
+        "parent": {
+          "id": "313"
+        },
+        "parentsPath": "293.313.319",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "34"
+        }
+      },
+      {
+        "id": "320",
+        "title": {
+          "translation": "Horta - Guinardó des de casa"
+        },
+        "parent": {
+          "id": "313"
+        },
+        "parentsPath": "293.313.320",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "34"
+        }
+      },
+      {
+        "id": "321",
+        "title": {
+          "translation": "Nou Barris des de casa"
+        },
+        "parent": {
+          "id": "313"
+        },
+        "parentsPath": "293.313.321",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "34"
+        }
+      },
+      {
+        "id": "322",
+        "title": {
+          "translation": "Sant Andreu des de casa"
+        },
+        "parent": {
+          "id": "313"
+        },
+        "parentsPath": "293.313.322",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "34"
+        }
+      },
+      {
+        "id": "323",
+        "title": {
+          "translation": "Sant Martí des de casa"
+        },
+        "parent": {
+          "id": "313"
+        },
+        "parentsPath": "293.313.323",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "34"
+        }
+      },
+      {
+        "id": "328",
+        "title": {
+          "translation": "XXV Audiència Pública a les noies i als nois de Barcelona"
+        },
+        "parent": {
+          "id": "452"
+        },
+        "parentsPath": "293.452.328",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "331",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Ciutat Vella"
+        },
+        "parent": {
+          "id": "32"
+        },
+        "parentsPath": "293.452.32.331",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "332",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de l'Eixample"
+        },
+        "parent": {
+          "id": "32"
+        },
+        "parentsPath": "293.452.32.332",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "333",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Sants-Montjuïc"
+        },
+        "parent": {
+          "id": "32"
+        },
+        "parentsPath": "293.452.32.333",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "334",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Les Corts"
+        },
+        "parent": {
+          "id": "32"
+        },
+        "parentsPath": "293.452.32.334",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "335",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Sarrià - Sant Gervasi"
+        },
+        "parent": {
+          "id": "32"
+        },
+        "parentsPath": "293.452.32.335",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "336",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Gràcia"
+        },
+        "parent": {
+          "id": "32"
+        },
+        "parentsPath": "293.452.32.336",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "337",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent d'Horta-Guinardó"
+        },
+        "parent": {
+          "id": "32"
+        },
+        "parentsPath": "293.452.32.337",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "338",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Nou Barris"
+        },
+        "parent": {
+          "id": "32"
+        },
+        "parentsPath": "293.452.32.338",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "339",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Sant Andreu"
+        },
+        "parent": {
+          "id": "32"
+        },
+        "parentsPath": "293.452.32.339",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "340",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Sant Martí"
+        },
+        "parent": {
+          "id": "32"
+        },
+        "parentsPath": "293.452.32.340",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "373",
+        "title": {
+          "translation": "Audiència Pública de Sants-Montjuïc"
+        },
+        "parent": {
+          "id": "304"
+        },
+        "parentsPath": "304.373",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "406",
+        "title": {
+          "translation": "Audiència Pública de Ciutat Vella"
+        },
+        "parent": {
+          "id": "302"
+        },
+        "parentsPath": "302.406",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "407",
+        "title": {
+          "translation": "Audiència Pública de Gràcia"
+        },
+        "parent": {
+          "id": "303"
+        },
+        "parentsPath": "303.407",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "408",
+        "title": {
+          "translation": "Audiència Pública de Sant Andreu"
+        },
+        "parent": {
+          "id": "295"
+        },
+        "parentsPath": "295.408",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "410",
+        "title": {
+          "translation": "28J Dia Internacional de l’Orgull LGTBI BCN"
+        },
+        "parent": {
+          "id": "372"
+        },
+        "parentsPath": "293.372.410",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "411",
+        "title": {
+          "translation": "Audiència Pública de l'Eixample"
+        },
+        "parent": {
+          "id": "297"
+        },
+        "parentsPath": "297.411",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "412",
+        "title": {
+          "translation": "Audiència Pública de Les Corts"
+        },
+        "parent": {
+          "id": "300"
+        },
+        "parentsPath": "300.412",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "413",
+        "title": {
+          "translation": "Audiència Pública de Sarrià-Sant Gervasi"
+        },
+        "parent": {
+          "id": "301"
+        },
+        "parentsPath": "301.413",
+        "childrenCount": 1,
+        "assemblyType": null
+      },
+      {
+        "id": "414",
+        "title": {
+          "translation": "Consell Municipal de Cooperació Internacional"
+        },
+        "parent": {
+          "id": "293"
+        },
+        "parentsPath": "293.414",
+        "childrenCount": 4,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "418",
+        "title": {
+          "translation": "Audiència Pública de Nou Barris"
+        },
+        "parent": {
+          "id": "299"
+        },
+        "parentsPath": "299.418",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "419",
+        "title": {
+          "translation": "Audiència Pública d'Horta-Guinardó"
+        },
+        "parent": {
+          "id": "296"
+        },
+        "parentsPath": "296.419",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "420",
+        "title": {
+          "translation": "Audiència Pública de Sant Martí"
+        },
+        "parent": {
+          "id": "298"
+        },
+        "parentsPath": "298.420",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "421",
+        "title": {
+          "translation": "Consell Ciutadà per la Sostenibilitat"
+        },
+        "parent": {
+          "id": "293"
+        },
+        "parentsPath": "293.421",
+        "childrenCount": 13,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "422",
+        "title": {
+          "translation": "Grup de Treball Verd i Biodiversitat"
+        },
+        "parent": {
+          "id": "421"
+        },
+        "parentsPath": "293.421.422",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "5"
+        }
+      },
+      {
+        "id": "423",
+        "title": {
+          "translation": "Grup de Treball Residu Zero"
+        },
+        "parent": {
+          "id": "421"
+        },
+        "parentsPath": "293.421.423",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "424",
+        "title": {
+          "translation": "Grup de Treball Energia i Canvi Climàtic"
+        },
+        "parent": {
+          "id": "421"
+        },
+        "parentsPath": "293.421.424",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "433",
+        "title": {
+          "translation": "Taula Plàstic Zero"
+        },
+        "parent": {
+          "id": "421"
+        },
+        "parentsPath": "293.421.433",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "5"
+        }
+      },
+      {
+        "id": "438",
+        "title": {
+          "translation": "Medalla d'Honor de Barcelona"
+        },
+        "parent": {
+          "id": "57"
+        },
+        "parentsPath": "293.57.438",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "440",
+        "title": {
+          "translation": "Pla d'accions de mobilitat del Raval"
+        },
+        "parent": {
+          "id": "60"
+        },
+        "parentsPath": "302.60.440",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "441",
+        "title": {
+          "translation": "II Trobada de Dones de Gràcia"
+        },
+        "parent": {
+          "id": "467"
+        },
+        "parentsPath": "303.467.441",
+        "childrenCount": 5,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "442",
+        "title": {
+          "translation": "Grup de treball: Coeducació"
+        },
+        "parent": {
+          "id": "441"
+        },
+        "parentsPath": "303.467.441.442",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "5"
+        }
+      },
+      {
+        "id": "443",
+        "title": {
+          "translation": "Grup de treball: Espai Públic"
+        },
+        "parent": {
+          "id": "441"
+        },
+        "parentsPath": "303.467.441.443",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "5"
+        }
+      },
+      {
+        "id": "444",
+        "title": {
+          "translation": "Grup de treball: Dones Grans"
+        },
+        "parent": {
+          "id": "441"
+        },
+        "parentsPath": "303.467.441.444",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "5"
+        }
+      },
+      {
+        "id": "445",
+        "title": {
+          "translation": "Grup de treball: Salut"
+        },
+        "parent": {
+          "id": "441"
+        },
+        "parentsPath": "303.467.441.445",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "5"
+        }
+      },
+      {
+        "id": "446",
+        "title": {
+          "translation": "Grup de treball: Cultura"
+        },
+        "parent": {
+          "id": "441"
+        },
+        "parentsPath": "303.467.441.446",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "5"
+        }
+      },
+      {
+        "id": "449",
+        "title": {
+          "translation": "Compromís Barcelona Plàstic Zero"
+        },
+        "parent": {
+          "id": "421"
+        },
+        "parentsPath": "293.421.449",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "453",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Barcelona (curs 21-22)"
+        },
+        "parent": {
+          "id": "452"
+        },
+        "parentsPath": "293.452.453",
+        "childrenCount": 11,
+        "assemblyType": null
+      },
+      {
+        "id": "454",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Sarrià - Sant Gervasi  (curs 21-22)"
+        },
+        "parent": {
+          "id": "453"
+        },
+        "parentsPath": "293.452.453.454",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "455",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Les Corts (curs 21-22)"
+        },
+        "parent": {
+          "id": "453"
+        },
+        "parentsPath": "293.452.453.455",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "456",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Ciutat Vella (curs 21-22)"
+        },
+        "parent": {
+          "id": "453"
+        },
+        "parentsPath": "293.452.453.456",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "457",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Sants-Montjuïc (curs 21-22)"
+        },
+        "parent": {
+          "id": "453"
+        },
+        "parentsPath": "293.452.453.457",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "458",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Gràcia (curs 21-22)"
+        },
+        "parent": {
+          "id": "453"
+        },
+        "parentsPath": "293.452.453.458",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "460",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de l'Eixample (curs 21-22)"
+        },
+        "parent": {
+          "id": "453"
+        },
+        "parentsPath": "293.452.453.460",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "461",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent d'Horta-Guinardó (curs 21-22)"
+        },
+        "parent": {
+          "id": "453"
+        },
+        "parentsPath": "293.452.453.461",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "462",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Sant Martí (curs 21-22)"
+        },
+        "parent": {
+          "id": "453"
+        },
+        "parentsPath": "293.452.453.462",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "463",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Sant Andreu (curs 21-22)"
+        },
+        "parent": {
+          "id": "453"
+        },
+        "parentsPath": "293.452.453.463",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "464",
+        "title": {
+          "translation": "Assemblea de la Ciutadania Adolescent de Nou Barris (curs 21-22)"
+        },
+        "parent": {
+          "id": "453"
+        },
+        "parentsPath": "293.452.453.464",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "467",
+        "title": {
+          "translation": "Consell de Dones de Gràcia"
+        },
+        "parent": {
+          "id": "303"
+        },
+        "parentsPath": "303.467",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "468",
+        "title": {
+          "translation": "Zero espais foscos a Gràcia"
+        },
+        "parent": {
+          "id": "467"
+        },
+        "parentsPath": "303.467.468",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "469",
+        "title": {
+          "translation": "AFAs/AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "271"
+        },
+        "parentsPath": "293.282.271.469",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "470",
+        "title": {
+          "translation": "Pla d'accions de mobilitat del Gòtic"
+        },
+        "parent": {
+          "id": "62"
+        },
+        "parentsPath": "302.62.470",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "471",
+        "title": {
+          "translation": "Pla d'accions de mobilitat del Casc Antic"
+        },
+        "parent": {
+          "id": "61"
+        },
+        "parentsPath": "302.61.471",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "472",
+        "title": {
+          "translation": "AFAs/AMPAs - Associacions de Famílies d'Alumnes"
+        },
+        "parent": {
+          "id": "270"
+        },
+        "parentsPath": "293.282.270.472",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "474",
+        "title": {
+          "translation": "Eleccions al Consell Ciutadà per la Sostenibilitat"
+        },
+        "parent": {
+          "id": "421"
+        },
+        "parentsPath": "293.421.474",
+        "childrenCount": 5,
+        "assemblyType": null
+      },
+      {
+        "id": "475",
+        "title": {
+          "translation": "Associacions i entitats cíviques i ciutadanes"
+        },
+        "parent": {
+          "id": "474"
+        },
+        "parentsPath": "293.421.474.475",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "476",
+        "title": {
+          "translation": "Empreses i organitzacions empresarials"
+        },
+        "parent": {
+          "id": "474"
+        },
+        "parentsPath": "293.421.474.476",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "477",
+        "title": {
+          "translation": "Centres educatius"
+        },
+        "parent": {
+          "id": "474"
+        },
+        "parentsPath": "293.421.474.477",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "478",
+        "title": {
+          "translation": "Universitats"
+        },
+        "parent": {
+          "id": "474"
+        },
+        "parentsPath": "293.421.474.478",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "479",
+        "title": {
+          "translation": "Col·legis professionals"
+        },
+        "parent": {
+          "id": "474"
+        },
+        "parentsPath": "293.421.474.479",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "480",
+        "title": {
+          "translation": "Nau Bostik"
+        },
+        "parent": {
+          "id": "8"
+        },
+        "parentsPath": "295.8.480",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "481",
+        "title": {
+          "translation": "🚴 Consell Municipal de l'Esport"
+        },
+        "parent": {
+          "id": "293"
+        },
+        "parentsPath": "293.481",
+        "childrenCount": 7,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "482",
+        "title": {
+          "translation": "Consell Municipal de Convivència, Defensa i Protecció dels Animals"
+        },
+        "parent": {
+          "id": "293"
+        },
+        "parentsPath": "293.482",
+        "childrenCount": 3,
+        "assemblyType": null
+      },
+      {
+        "id": "483",
+        "title": {
+          "translation": "Taula Ciutadana de Patrimoni"
+        },
+        "parent": {
+          "id": "293"
+        },
+        "parentsPath": "293.483",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "34"
+        }
+      },
+      {
+        "id": "517",
+        "title": {
+          "translation": "Consell Assessor de la Gent Gran"
+        },
+        "parent": {
+          "id": "293"
+        },
+        "parentsPath": "293.517",
+        "childrenCount": 2,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "524",
+        "title": {
+          "translation": "🗳️ Clubs, Associacions i Entitats Esportives"
+        },
+        "parent": {
+          "id": "481"
+        },
+        "parentsPath": "293.481.524",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "529",
+        "title": {
+          "translation": "Plenari"
+        },
+        "parent": {
+          "id": "482"
+        },
+        "parentsPath": "293.482.529",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "542",
+        "title": {
+          "translation": "Comissió de Seguiment del Consell de Barri de Pedralbes"
+        },
+        "parent": {
+          "id": "51"
+        },
+        "parentsPath": "300.51.542",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "6"
+        }
+      },
+      {
+        "id": "543",
+        "title": {
+          "translation": "Comissió de Seguiment del Consell de Barri de la Maternitat i Sant Ramon"
+        },
+        "parent": {
+          "id": "50"
+        },
+        "parentsPath": "300.50.543",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "551",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "55"
+        },
+        "parentsPath": "303.55.551",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "552",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "56"
+        },
+        "parentsPath": "303.56.552",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "553",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "54"
+        },
+        "parentsPath": "303.54.553",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "554",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "53"
+        },
+        "parentsPath": "303.53.554",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "5"
+        }
+      },
+      {
+        "id": "555",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "52"
+        },
+        "parentsPath": "303.52.555",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "557",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "18"
+        },
+        "parentsPath": "296.18.557",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "558",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "22"
+        },
+        "parentsPath": "296.22.558",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "559",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "24"
+        },
+        "parentsPath": "296.24.559",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "560",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "23"
+        },
+        "parentsPath": "296.23.560",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "561",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "27"
+        },
+        "parentsPath": "296.27.561",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "562",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "25"
+        },
+        "parentsPath": "296.25.562",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "563",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "28"
+        },
+        "parentsPath": "296.28.563",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "564",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "21"
+        },
+        "parentsPath": "296.21.564",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "565",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "31"
+        },
+        "parentsPath": "296.31.565",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "566",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "29"
+        },
+        "parentsPath": "296.29.566",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "567",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "30"
+        },
+        "parentsPath": "296.30.567",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "568",
+        "title": {
+          "translation": "Pacte per la Ronda de Dalt"
+        },
+        "parent": {
+          "id": "293"
+        },
+        "parentsPath": "293.568",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "6"
+        }
+      },
+      {
+        "id": "569",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "33"
+        },
+        "parentsPath": "299.33.569",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "570",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "37"
+        },
+        "parentsPath": "299.37.570",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "571",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "38"
+        },
+        "parentsPath": "299.38.571",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "572",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "45"
+        },
+        "parentsPath": "299.45.572",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "573",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "39"
+        },
+        "parentsPath": "299.39.573",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "574",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "41"
+        },
+        "parentsPath": "299.41.574",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "575",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "43"
+        },
+        "parentsPath": "299.43.575",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "576",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "42"
+        },
+        "parentsPath": "299.42.576",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "577",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "40"
+        },
+        "parentsPath": "299.40.577",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "578",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "44"
+        },
+        "parentsPath": "299.44.578",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "579",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "47"
+        },
+        "parentsPath": "299.47.579",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "580",
+        "title": {
+          "translation": "Comissió de Seguiment"
+        },
+        "parent": {
+          "id": "48"
+        },
+        "parentsPath": "299.48.580",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "581",
+        "title": {
+          "translation": "Comissió de Seguiment del Consell de Barri de Vallbona"
+        },
+        "parent": {
+          "id": "46"
+        },
+        "parentsPath": "299.46.581",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "6"
+        }
+      },
+      {
+        "id": "594",
+        "title": {
+          "translation": "Comissió de Seguiment del Consell de Barri de Diagonal Mar i el Front Marítim del Poblenou"
+        },
+        "parent": {
+          "id": "285"
+        },
+        "parentsPath": "298.285.594",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "597",
+        "title": {
+          "translation": "Comissió de Seguiment del Consell de Barri del Clot i del Camp de l'Arpa del Clot"
+        },
+        "parent": {
+          "id": "283"
+        },
+        "parentsPath": "298.283.597",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "598",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "207"
+        },
+        "parentsPath": "293.282.96.98.207.598",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "599",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "206"
+        },
+        "parentsPath": "293.282.96.98.206.599",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "602",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "223"
+        },
+        "parentsPath": "293.282.96.100.223.602",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "603",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "222"
+        },
+        "parentsPath": "293.282.96.100.222.603",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "606",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "174"
+        },
+        "parentsPath": "293.282.96.102.174.606",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "609",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "129"
+        },
+        "parentsPath": "293.282.96.103.129.609",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "610",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "110"
+        },
+        "parentsPath": "293.282.96.107.110.610",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "611",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "111"
+        },
+        "parentsPath": "293.282.96.107.111.611",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "612",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "113"
+        },
+        "parentsPath": "293.282.96.108.113.612",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "613",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "112"
+        },
+        "parentsPath": "293.282.96.108.112.613",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "614",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "254"
+        },
+        "parentsPath": "299.106.254.614",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "616",
+        "title": {
+          "translation": "Eleccions d’entitats del Consell Municipal de Cooperació Internacional"
+        },
+        "parent": {
+          "id": "414"
+        },
+        "parentsPath": "293.414.616",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "617",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "239"
+        },
+        "parentsPath": "296.104.239.617",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "618",
+        "title": {
+          "translation": "PAE - Personal d'Atenció Educativa complementària"
+        },
+        "parent": {
+          "id": "238"
+        },
+        "parentsPath": "296.104.238.618",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "619",
+        "title": {
+          "translation": "🎲 Consells sectorials d'esports dels districtes"
+        },
+        "parent": {
+          "id": "481"
+        },
+        "parentsPath": "293.481.619",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "621",
+        "title": {
+          "translation": "Bones Pràctiques Sostenibles"
+        },
+        "parent": {
+          "id": "421"
+        },
+        "parentsPath": "293.421.621",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "622",
+        "title": {
+          "translation": "Grup de Treball de Recursos Hídrics alternatius a l'Aigua Potable"
+        },
+        "parent": {
+          "id": "421"
+        },
+        "parentsPath": "293.421.622",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "623",
+        "title": {
+          "translation": "Accions per la sostenibilitat"
+        },
+        "parent": {
+          "id": "421"
+        },
+        "parentsPath": "293.421.623",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "624",
+        "title": {
+          "translation": "Consell de Cultura de Ciutat Vella"
+        },
+        "parent": {
+          "id": "302"
+        },
+        "parentsPath": "302.624",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "625",
+        "title": {
+          "translation": "Consell d'Esports de Ciutat Vella"
+        },
+        "parent": {
+          "id": "302"
+        },
+        "parentsPath": "302.625",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "626",
+        "title": {
+          "translation": "Consell de Seguretat, Prevenció i Convivència de Ciutat Vella"
+        },
+        "parent": {
+          "id": "302"
+        },
+        "parentsPath": "302.626",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "627",
+        "title": {
+          "translation": "Eleccions d’entitats del Consell de Cultura de Ciutat Vella"
+        },
+        "parent": {
+          "id": "624"
+        },
+        "parentsPath": "302.624.627",
+        "childrenCount": 0,
+        "assemblyType": null
+      },
+      {
+        "id": "663",
+        "title": {
+          "translation": "Nom de la nova Biblioteca de Sarrià"
+        },
+        "parent": {
+          "id": "413"
+        },
+        "parentsPath": "301.413.663",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "4"
+        }
+      },
+      {
+        "id": "664",
+        "title": {
+          "translation": "Pacte per la Mobilitat"
+        },
+        "parent": {
+          "id": "293"
+        },
+        "parentsPath": "293.664",
+        "childrenCount": 1,
+        "assemblyType": {
+          "id": "3"
+        }
+      },
+      {
+        "id": "665",
+        "title": {
+          "translation": "Renovació de la Comissió Permanent i de la Vicepresidència del Pacte per la Mobilitat"
+        },
+        "parent": {
+          "id": "664"
+        },
+        "parentsPath": "293.664.665",
+        "childrenCount": 0,
+        "assemblyType": {
+          "id": "4"
+        }
+      }
+    ],
+    "assembliesTypes": [
+      {
+        "id": "1",
+        "title": {
+          "translations": [
+            {
+              "text": "Govern"
+            },
+            {
+              "text": "Gobierno"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "title": {
+          "translations": [
+            {
+              "text": "Executiva"
+            },
+            {
+              "text": "Ejecutiva"
+            }
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "title": {
+          "translations": [
+            {
+              "text": "Consultiva / Assessora"
+            },
+            {
+              "text": "Consultiva / Asesora"
+            }
+          ]
+        }
+      },
+      {
+        "id": "4",
+        "title": {
+          "translations": [
+            {
+              "text": "Participativa"
+            },
+            {
+              "text": "Participativa"
+            }
+          ]
+        }
+      },
+      {
+        "id": "5",
+        "title": {
+          "translations": [
+            {
+              "text": "Grup de treball"
+            },
+            {
+              "text": "Grupo de trabajo"
+            }
+          ]
+        }
+      },
+      {
+        "id": "6",
+        "title": {
+          "translations": [
+            {
+              "text": "Comissió"
+            },
+            {
+              "text": "Comisión"
+            }
+          ]
+        }
+      },
+      {
+        "id": "34",
+        "title": {
+          "translations": [
+            {
+              "text": "Ciutadana"
+            },
+            {
+              "text": "Ciudadana"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
